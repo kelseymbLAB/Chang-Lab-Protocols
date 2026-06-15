@@ -6,5 +6,5 @@ Final Contextualized Model: RPMI_GIMME_Model.xml
 
 Alignment Files: RNA-Seq data downloaded from SRA or your sequencing company, your genomic.gtf and .fna from your reference genome. In my case, its genomic.gtf and GCF_000026505.1_ASM2650v1_genomic.fna for LGG. Finally, the align.sbatch script.
 
-Mapping Files: Model .xml with RPMI reactions already added, "iGR384_with_added_rxn_for_RPMI.xml"
+Mapping Files: Model .xml
 
